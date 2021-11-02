@@ -1,0 +1,50 @@
+Random Number data set results:
+
+Selection Sort of 100 Random Numbers = 0.000023 seconds
+Selection Sort of 1000 Random Numbers = 0.001511 seconds
+Selection Sort of 5000 Random Numbers = 0.028936 seconds
+Selection Sort of 100000 Random Numbers = 9.453159 seconds
+Selection Sort of 500000 Random Numbers = 301.766478 seconds
+Selection Sort of 1000000 Random Numbers = 1229.921572 seconds
+
+
+Quick Sort of 100 Random Numbers = 0.000010 seconds
+Quick Sort of 1000 Random Numbers = 0.000134 seconds
+Quick Sort of 5000 Random Numbers = 0.000740 seconds
+Quick Sort of 100000 Random Numbers = 0.014575 seconds
+Quick Sort of 500000 Random Numbers = 0.080380 seconds
+Quick Sort of 1000000 Random Numbers = 0.168436 seconds
+Quick Sort of 2000000 Random Numbers = 0.571949 seconds
+
+Insertion Sort of 100 Random Numbers = 0.000015 seconds
+Insertion Sort of 1000 Random Numbers = 0.001039 seconds
+Insertion Sort of 5000 Random Numbers = 0.025700 seconds
+Insertion Sort of 100000 Random Numbers = 8.853745 seconds
+Insertion Sort of 500000 Random Numbers = 244.274650 seconds
+Insertion Sort of 1000000 Random Numbers = 1039.382118 seconds
+
+
+Half Sorted data set results:
+
+Selection Sort of 100 Half Sorted Numbers = 0.000027 seconds
+Selection Sort of 1000 Half Sorted Numbers = 0.002100 seconds
+Selection Sort of 5000 Half Sorted Numbers  = 0.034204 seconds
+Selection Sort of 100000 Half Sorted Numbers = 9.934310 seconds
+Selection Sort of 500000 Half Sorted Numbers = 269.048929 seconds
+Selection Sort of 1000000 Half Sorted Numbers = 1141.227745 seconds
+
+
+Quick Sort of 100 Half Sorted Numbers = 0.000010 seconds
+Quick Sort of 1000 Half Sorted Numbers = 0.000123 seconds
+Quick Sort of 5000 Half Sorted Numbers = 0.001025 seconds
+Quick Sort of 100000 Half Sorted Numbers = 0.019652 seconds
+Quick Sort of 500000 Half Sorted Numbers = 0.078252 seconds
+Quick Sort of 1000000 Half Sorted Numbers = 0.164143 seconds
+
+
+Insertion Sort of 100 Half Sorted Numbers  = 0.000019 seconds
+Insertion Sort of 1000 Half Sorted Numbers = 0.001479 seconds
+Insertion Sort of 5000 Half Sorted Numbers = 0.025019 seconds
+Insertion Sort of 100000 Half Sorted Numbers = 7.721007 seconds
+Insertion Sort of 500000 Half Sorted Numbers = 228.805159 seconds
+Insertion Sort of 1000000 Half Sorted Numbers = 964.413655 seconds

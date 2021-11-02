@@ -1,0 +1,23 @@
+
+1.Selection Sort References
+        - CA116 Python task(see code)
+        - https://www.youtube.com/watch?v=IsFKaTgjzxo
+        - https://www.youtube.com/watch?v=GUDLRan2DWM
+        - https://www.zentut.com/c-tutorial/c-write-text-file/ (text file)
+        - https://www.youtube.com/watch?v=4j0pRe8rxhs&feature=youtu.be (timer)
+
+2.Insertion Sort References
+        - CA116 Python task(see code)
+        - https://www.youtube.com/watch?v=i-SKeOcBwko
+        - https://www.programiz.com/dsa/insertion-sort
+        - https://www.zentut.com/c-tutorial/c-write-text-file/ (text file)
+        - https://www.youtube.com/watch?v=4j0pRe8rxhs&feature=youtu.be (timer)
+
+3.Quick Sort References:
+        - CA117 Python task(see code)
+        - https://www.youtube.com/watch?v=COk73cpQbFQ
+        - https://www.interviewbit.com/tutorial/quicksort-algorithm/
+        - https://www.zentut.com/c-tutorial/c-write-text-file/ (text file)
+        - https://www.youtube.com/watch?v=4j0pRe8rxhs&feature=youtu.be (timer)
+        
+
