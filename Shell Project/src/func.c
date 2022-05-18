@@ -18,7 +18,6 @@
     see links above.
 */
 
-
 //Prints the shell enviroment.
 void shell_env(){
     char dir[100];      //Storing dir in a array.
